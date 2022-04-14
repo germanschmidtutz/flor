@@ -1,0 +1,39 @@
+.navbar-dark {
+  background-color: black !important;
+  justify-content: end;
+}
+
+.bg-dark {
+  background-color: black !important;
+}
+
+.navbar-collapse {
+  justify-content: end !important;
+}
+
+.nav-link {
+  display: flex;
+  justify-content: end;
+}
+
+.contenedorBotones {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+#accordionFlushExample .accordion-button {
+  color: white;
+  background-color: black;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: black;
+}
+
+/*# sourceMappingURL=estilos.css.map */
